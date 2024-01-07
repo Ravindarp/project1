@@ -1,4 +1,3 @@
-#used to store common functionalities 
 import os
 import sys
 
